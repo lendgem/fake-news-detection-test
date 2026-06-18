@@ -36,7 +36,7 @@ Fuente: [FakeNewsCorpusSpanish](https://github.com/jpposadas/FakeNewsCorpusSpani
 
 ---
 
-### 2. Spanish Fake News Dataset (Tretiakov et al., 2025)  
+### 2. Spanish Fake News Dataset 
 Colección de noticias exclusivamente falsas obtenidas desde diciembre de 2005 hasta octubre de 2021 y publicadas recientemente.  
 
 Los datos poseen formatos variados que incluyen:
